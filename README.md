@@ -53,8 +53,8 @@
 
 ![Screenshot 2025-04-24 160532](https://github.com/user-attachments/assets/e43f15ce-4ec0-4263-9c6e-198a364d6afa)
 
-### Name: VISHWA V
-### Register Number: 212224110062
+### Name: SHARAN S
+### Register Number: 212224040309
 
 ## Result: 
 ### Thus the simulation on the Postprocessing in additive manufacturing is completed.
